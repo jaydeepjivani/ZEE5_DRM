@@ -2,7 +2,7 @@
 
 <p align="center"> ⚒ It can Stream The ZEE5 Movies , TV SHows and Series All content <br> In Online DRM Player !!<br><br>It Support all Premium Content as well as ZEEPLEX ALso</p>
 <br>
-<h3 align="center"> Use This : https://drm.zee5play.ml </h3><br>
+<h3 align="center"> Free, Premium & ZEEPLEX : <br> https://drm.zee5play.ml </h3><br>
 <h2> Features :</h2>
 
 ‣ Online  Player With all Features <br>
