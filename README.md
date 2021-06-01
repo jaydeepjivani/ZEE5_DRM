@@ -1,4 +1,4 @@
-<h1 align="center">📺 ZEE5 Player 😉</h1>
+<h1 align="center">🪔 ZEE5 Player 😎</h1>
 
 <p align="center"> ⚒ It can Stream The ZEE5 Movies , TV SHows and Series All content <br> In Online DRM Player !!<br><br>It Support all Premium Content as well as ZEEPLEX ALso</p>
 <br>
