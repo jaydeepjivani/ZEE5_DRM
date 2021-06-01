@@ -25,11 +25,6 @@
 
 </h4><br>
 
-
-<h2> Where To Host : </h2>
-
-‣ Copy Index.JS Code and Host on CloudFlare Workers
-
 ---
 
 <h5 align="center"> © 2021 Aishkar Patil</h5>
