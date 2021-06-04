@@ -1,6 +1,6 @@
 <h1 align="center">🪔 ZEE5 Player 😎</h1>
 
-<p align="center"> ⚒ It can Stream The ZEE5 Movies , TV SHows and Series All content <br> In Online DRM Player !!<br><br>It Support all Premium Content as well as ZEEPLEX ALso</p>
+<p align="center"> ⚒ It can Stream The ZEE5 Movies , TV SHows and Series All content <br> In Online DRM Player !!<br><br>It Support all Premium Content as well as ZEEPLEX ALso<br><br><b>DO NOT MESSAGE FOR ITS CODE</b></p>
 <br>
 <h3 align="center"> Free, Premium & ZEEPLEX : <br> https://drm.zee5play.ml </h3><br>
 <h2> Features :</h2>
@@ -19,7 +19,7 @@
 ‣ Go To <a href="https://www.zee5.com/">ZEE5 Site</a> <br><br>
 ‣ Open Movie , Shows or TV Series That You Want To watch ! <br><br>
 ‣ Copy The URL From URL Box Like below <br><br>
-   https://www.zee5.com/zee5originals/details/lalbazaar/0-6-2177/ep-1-sleepless-in-kolkata/0-1-manual_6a651ie4f1f0 <br><br>
+   https://www.zee5.com/movies/details/radhe-your-most-wanted-bhai/0-0-399328 <br><br>
 ‣ Paste URL at https://drm.zee5play.ml Box and Click on STream <br><br>
 ‣ Run This URL and Play And Enjoy !!  
 
